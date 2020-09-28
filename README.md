@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Good to see you.
 
 <!--
 **mrdrivingduck/mrdrivingduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💪/🚘/🏸/💻 My hobby includes workout / driving / badminton / technology.
+- 👨‍🎓 I'm currently a master student of [Nanjing University of Aeronautics and Astronautics](https://en.wikipedia.org/wiki/Nanjing_University_of_Aeronautics_and_Astronautics).
+- 🍊 I'm in internship at [@Alibaba](https://github.com/alibaba) Cloud ([@aliyun](https://github.com/aliyun)) focusing on DBMS.
+- 🔥 I'm interested in Operating System kernel (especially Linux).
+- ✍ My blog: [mrdrivingduck.github.io/blog](https://www.mrdrivingduck.cn/blog/#/).
+- 📫 How to reach me: [mrdrivingduck@gmail.com](mailto:mrdrivingduck@gmail.com).
+
+![Mr Dk.'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdrivingduck&count_private&show_icons=true&theme=buefy)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdrivingduck&exclude_repo=mips32-CPU,snort-tcp-socket&theme=buefy&layout=compact&langs_count=10)

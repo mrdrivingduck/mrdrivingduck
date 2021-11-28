@@ -1,0 +1,105 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 00:00AM UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'[Daily] Update by Github Action at %Y-%m-%d')"
+      - uses: anmol098/waka-readme-stats@master # PLEASE USE MASTER BRANCH
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          
+          # SHOW_OS:
+            # required: false
+            # description: 'Show the list of OS Worked on In dev metrics'
+            # default: "True"
+
+          SHOW_PROJECTS: "False"
+            # required: false
+            # description: 'Show the list of projects worked on in dev metrics'
+            # default: "True"
+
+          # SHOW_EDITORS:
+            # required: false
+            # description: 'Show the Editors used in dev metrics'
+            # default: "True"
+
+          # SHOW_TIMEZONE:
+            # required: false
+            # description: 'Show the time zone in the dev metrics'
+            # default: "True"
+
+          SHOW_COMMIT: "False"
+            # required: false
+            # description: "Shows the number of commit graph in the dev metrics"
+            # default: "True"
+
+          # SHOW_LANGUAGE:
+            # required: false
+            # description: "Show the Coding language used in dev metrics"
+            # default: "True"
+
+          # SHOW_LINES_OF_CODE:
+            # required: false
+            # description: "Show the Total Lines of code written Badge till date"
+            # default: "False"
+
+          SHOW_LANGUAGE_PER_REPO: "False"
+            # required: false
+            # description: "Show language or framework used across different repository"
+            # default: "True"
+
+          SHOW_LOC_CHART: "False"
+            # required: false
+            # description: ""
+            # default: "True"
+
+          SHOW_DAYS_OF_WEEK: "False"
+            # required: false
+            # description: "show day of week you are most productive"
+            # default: "True"
+
+          SHOW_PROFILE_VIEWS: "False"
+            # required: false
+            # description: "Shows the current profile views"
+            # default: "True"
+
+          SHOW_SHORT_INFO: "False"
+            # required: false
+            # description: "Shows the short facts"
+            # default: "True"
+
+          # LOCALE: "zh"
+            # required: false
+            # description: "Show stats in your own language"
+            # default: "en"
+
+          # COMMIT_BY_ME:
+            # required: false
+            # description: "Git commit with your own name and email"
+            # default: "False"
+
+          # IGNORED_REPOS:
+            # required: false
+            # description: "Repos you don't want to be counted"
+            # default: ""
+
+          COMMIT_MESSAGE: ${{ steps.date.outputs.date }}
+            # required: false
+            # description: "Git commit message"
+            # default: "Updated with Dev Metrics"
+
+          SHOW_UPDATED_DATE: "False"
+            # required: false
+            # description: "Show updated date"
+            # default: "True"

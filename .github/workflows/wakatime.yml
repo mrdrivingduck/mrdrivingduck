@@ -103,3 +103,8 @@ jobs:
             # required: false
             # description: "Show updated date"
             # default: "True"
+
+          SHOW_TOTAL_CODE_TIME: "False"
+            # required: false
+            # description: "Show Total Time you have coded"
+            # default: "True"

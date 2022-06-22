@@ -13,7 +13,8 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'[Daily] Update by Github Action at %Y-%m-%d')"
+        run: |
+            echo "::set-output name=date::$(date +'daily: update by Github Actions at %Y-%m-%d')"
       - uses: anmol098/waka-readme-stats@master # PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

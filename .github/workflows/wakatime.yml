@@ -109,3 +109,8 @@ jobs:
             # required: false
             # description: "Show Total Time you have coded"
             # default: "True"
+
+          # SYMBOL_VERSION:
+            # required: false
+            # description: "Version of the symbol block and empty of the progress bar"
+            # default: "1"

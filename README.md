@@ -7,7 +7,7 @@ This is **Mr Dk. (mrdrivingduck)**, Chinese nickname: **棠羽**. I love ducks. 
 - 🔥 I am interested in system software, especially OS kernels like *Linux*.
 - 🔧 I enjoy everything pragmatic, helpful to our daily life and the world.
 - 👨‍🎓 Former bachelor/master student of [NUAA](https://en.wikipedia.org/wiki/Nanjing_University_of_Aeronautics_and_Astronautics).
-- ✍ Refer to my blog at: [mrdrivingduck.github.io/blog](https://www.mrdrivingduck.cn/blog/#/).
+- ✍ Refer to my blog at: [mrdrivingduck.github.io/blog](https://mrdrivingduck.github.io/blog/).
 - 📫 Reach me with this email: [mrdrivingduck@gmail.com](mailto:mrdrivingduck@gmail.com).
 
 <!--START_SECTION:waka-->

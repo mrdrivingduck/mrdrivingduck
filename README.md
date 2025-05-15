@@ -1,14 +1,11 @@
-### Hi there~ 😎
+### Hi there~ 🫡
 
-This is **Mr Dk. (mrdrivingduck)**, Chinese nickname: **棠羽**. I love ducks. 🦆
+This is **Mr Dk. (mrdrivingduck)**. I love ducks. 🦆
 
-- 💪/🚘/🏸/💻 My Hobbies include workout, driving, badminton and technology.
-- 🍊 I am a DBMS kernel developer of [PolarDB for PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL).
-- 🔥 I am interested in system software, especially OS kernels like *Linux*.
-- 🔧 I enjoy everything pragmatic, helpful to our daily life and the world.
-- 👨‍🎓 Former bachelor/master student of [NUAA](https://en.wikipedia.org/wiki/Nanjing_University_of_Aeronautics_and_Astronautics).
-- ✍ Refer to my blog at: [mrdrivingduck.github.io/blog](https://mrdrivingduck.github.io/blog/).
-- 📫 Reach me with this email: [mrdrivingduck@gmail.com](mailto:mrdrivingduck@gmail.com).
+- 🍊 Developer of [PolarDB (for PostgreSQL)](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) at Alibaba Cloud Database, nicknamed as **棠羽**.
+- 👨‍🎓 Bachelor / Master graduated from [NUAA](https://en.wikipedia.org/wiki/Nanjing_University_of_Aeronautics_and_Astronautics).
+- 🔥 Interested in system software.
+- 🔗 [Email](mailto:mrdrivingduck@gmail.com) / [Blog](https://mrdrivingduck.github.io/blog/) / [ZhiHu](https://www.zhihu.com/people/zhang-jing-tang-78)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 

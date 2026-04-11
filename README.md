@@ -28,21 +28,22 @@ This is **Mr Dk. (mrdrivingduck)**. I love ducks. 🦆
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      7 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-Markdown                 4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Python                   4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Other                    3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Rust                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+C++                      7 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Other                    6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Markdown                 4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+sh                       2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 25 mins      ███████████████████████░░   90.71 % 
-Zsh                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Unknown Editor           26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+VS Code                  24 hrs 3 mins       ███████████████████░░░░░░   74.47 % 
+Cursor                   4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Zsh                      3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Unknown Editor           26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Linux                    12 hrs 28 mins      ████████████░░░░░░░░░░░░░   46.35 % 
-Mac                      8 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
-WSL                      6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Mac                      13 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   41.89 % 
+Linux                    12 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   38.90 % 
+WSL                      6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
 ```
 
 

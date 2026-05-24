@@ -28,20 +28,20 @@ This is **Mr Dk. (mrdrivingduck)**. I love ducks. 🦆
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   32.44 % 
-C                        5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Rust                     5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-sh                       3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-SQL                      2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Markdown                 10 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   35.13 % 
+C                        5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Rust                     4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+sh                       3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+SQL                      2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 55 mins      ███████████████████░░░░░░   74.74 % 
-Claude Code              4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Zsh                      3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+VS Code                  22 hrs 45 mins      ██████████████████░░░░░░░   73.81 % 
+Claude Code              4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Zsh                      3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 
 💻 Operating System: 
-Linux                    20 hrs 42 mins      ████████████████░░░░░░░░░   64.66 % 
-Mac                      11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   35.34 % 
+Linux                    19 hrs 35 mins      ████████████████░░░░░░░░░   63.57 % 
+Mac                      11 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   36.43 % 
 ```
 
 

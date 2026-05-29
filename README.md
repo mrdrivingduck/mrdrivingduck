@@ -22,27 +22,5 @@ This is **Mr Dk. (mrdrivingduck)**. I love ducks. 🦆
 - pgrx: [`c944bdef`](https://github.com/pgcentralfoundation/pgrx/commit/c944bdef8f2631f430584d5b50de070da17593fe)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 15 hrs 9 mins       ███████████░░░░░░░░░░░░░░   45.92 % 
-C                        5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Rust                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-sh                       2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-SQL                      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-
-🔥 Editors: 
-VS Code                  25 hrs 34 mins      ███████████████████░░░░░░   77.48 % 
-Claude Code              4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Zsh                      3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-
-💻 Operating System: 
-Linux                    22 hrs 26 mins      █████████████████░░░░░░░░   68.00 % 
-Mac                      10 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.00 % 
-```
-
 
 <!--END_SECTION:waka-->

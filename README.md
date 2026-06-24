@@ -19,7 +19,7 @@ This is **Mr Dk. (mrdrivingduck)**. I love ducks. 🦆
 - paimon-cpp: [`277b8056`](https://github.com/alibaba/paimon-cpp/commit/277b8056e7acb802164e68aabb6770246d3e22db), [`1ba3589f`](https://github.com/alibaba/paimon-cpp/commit/1ba3589f11c1228312c8664cd1b4aa47d389c7f7), [`5a16a0fb`](https://github.com/alibaba/paimon-cpp/commit/5a16a0fbdb94638dc90eb96fe9131564d15274cf), [`62b100c7`](https://github.com/alibaba/paimon-cpp/commit/62b100c7be0595102caa05321c49ee9e776c8f74), [`d893e0bd`](https://github.com/alibaba/paimon-cpp/commit/d893e0bd691b3be598307d8ccc2b0abf4162bfab), [`1970d940`](https://github.com/alibaba/paimon-cpp/commit/1970d9408784754b827f276d5c10df419a08a0e3), [`d95bfae4`](https://github.com/alibaba/paimon-cpp/commit/d95bfae4ca76d14a4f5ed336ac96b86dd5f8770c), [`b1ffd6f7`](https://github.com/alibaba/paimon-cpp/commit/b1ffd6f73e5edf57aac24ec2eaf6d2ef9e9a9850)
 - pg_cron: [`df3a8ecc`](https://github.com/citusdata/pg_cron/commit/df3a8ecc4f9d88f13dab054087d2103d7653f663)
 - pg_hint_plan: [`1c3ccabe`](https://github.com/ossc-db/pg_hint_plan/commit/1c3ccabe8921031523eae64f2831207e639a8978)
-- pgrx: [`c944bdef`](https://github.com/pgcentralfoundation/pgrx/commit/c944bdef8f2631f430584d5b50de070da17593fe)
+- pgrx: [`c6e40f72`](https://github.com/pgcentralfoundation/pgrx/commit/c6e40f728910e44b13f75b3e574e7f8a54f01c03), [`c944bdef`](https://github.com/pgcentralfoundation/pgrx/commit/c944bdef8f2631f430584d5b50de070da17593fe)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 

@@ -22,8 +22,6 @@ This is **Mr Dk. (mrdrivingduck)**. I love ducks. 🦆
 - pgrx: [`c6e40f72`](https://github.com/pgcentralfoundation/pgrx/commit/c6e40f728910e44b13f75b3e574e7f8a54f01c03), [`c944bdef`](https://github.com/pgcentralfoundation/pgrx/commit/c944bdef8f2631f430584d5b50de070da17593fe)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-373%20hrs%2017%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -44,29 +42,6 @@ Codex CLI                46 mins             █░░░░░░░░░░�
 💻 Operating System: 
 Mac                      14 hrs 8 mins       █████████████░░░░░░░░░░░░   51.64 % 
 Linux                    13 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.36 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 23 hrs 22 mins (85.35%)
-
-✍️ 6,295 lines written by AI, 69 lines written by hand (98.92% AI-written)
-
-🔤 258,230,282 Input Tokens, 851,501 Output Tokens
-
-💵 $1319.02 Estimated AI Cost This Week
-
-🧠 37 AI Sessions, 110 AI Prompts
-
-GPT                      7,163 lines         █████████████████████████   99.43 % 
-Codex-Cli                41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.92% of written lines came from AI
-📝 Concise Prompter — average 492 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.08% of changed lines were hand-edited
 ```
 
 

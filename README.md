@@ -22,26 +22,51 @@ This is **Mr Dk. (mrdrivingduck)**. I love ducks. 🦆
 - pgrx: [`c6e40f72`](https://github.com/pgcentralfoundation/pgrx/commit/c6e40f728910e44b13f75b3e574e7f8a54f01c03), [`c944bdef`](https://github.com/pgcentralfoundation/pgrx/commit/c944bdef8f2631f430584d5b50de070da17593fe)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-373%20hrs%2017%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        9 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Markdown                 4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-C++                      3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-sh                       2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Bash                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+C                        8 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Markdown                 3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+C++                      3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+sh                       2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+CMake                    2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 26 mins      ██████████████████████░░░   87.03 % 
-Zsh                      3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Codex CLI                46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+VS Code                  23 hrs 34 mins      ██████████████████████░░░   86.08 % 
+Zsh                      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Codex CLI                46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 💻 Operating System: 
-Linux                    15 hrs 36 mins      █████████████░░░░░░░░░░░░   53.38 % 
-Mac                      13 hrs 37 mins      ████████████░░░░░░░░░░░░░   46.62 % 
+Mac                      14 hrs 8 mins       █████████████░░░░░░░░░░░░   51.64 % 
+Linux                    13 hrs 14 mins      ████████████░░░░░░░░░░░░░   48.36 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 hrs 22 mins (85.35%)
+
+✍️ 6,295 lines written by AI, 69 lines written by hand (98.92% AI-written)
+
+🔤 258,230,282 Input Tokens, 851,501 Output Tokens
+
+💵 $1319.02 Estimated AI Cost This Week
+
+🧠 37 AI Sessions, 110 AI Prompts
+
+GPT                      7,163 lines         █████████████████████████   99.43 % 
+Codex-Cli                41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.92% of written lines came from AI
+📝 Concise Prompter — average 492 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.08% of changed lines were hand-edited
 ```
 
 

@@ -28,21 +28,21 @@ This is **Mr Dk. (mrdrivingduck)**. I love ducks. 🦆
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.68 % 
-C                        4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Objective-C              48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-sh                       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Markdown                 6 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
+C                        5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
+sh                       1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Objective-C              48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+RPMSpec                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 5 mins       ███████████████░░░░░░░░░░   61.85 % 
-Codex Vscode             4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-Zsh                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Codex CLI                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+VS Code                  11 hrs 3 mins       ███████████████░░░░░░░░░░   61.01 % 
+Codex Vscode             5 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.60 % 
+Zsh                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    8 hrs 20 mins       █████████████░░░░░░░░░░░░   51.15 % 
-Mac                      7 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.85 % 
+Linux                    10 hrs 23 mins      ██████████████░░░░░░░░░░░   57.31 % 
+Mac                      7 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
 ```
 
 
